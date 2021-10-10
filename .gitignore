@@ -1,6 +1,8 @@
 data
 123
 test*
+graph*
+typical_graph*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
