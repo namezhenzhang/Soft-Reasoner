@@ -1,8 +1,18 @@
 data
 123
 test*
-graph*
-typical_graph*
+graph*.md
+typical_graph*.md
+output.png
+paper
+slurm
+./*.json
+train_data*.json
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
